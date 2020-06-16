@@ -42,7 +42,6 @@ class CardModel {
             
             // Update checking duplicate array
             alreadyExists.append(randomNumber)
-            print(alreadyExists)
         }
         
         // Randomize the cards within array
